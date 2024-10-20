@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(39, 39, 39);
+}
+
+.app-wrapper {
+    min-height: 100vh;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

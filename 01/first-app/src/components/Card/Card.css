@@ -1,0 +1,15 @@
+.card {
+    padding: 15px;
+    background-color: rgb(109, 109, 109);
+    border-radius: 5px;
+}
+
+.card-image {
+    max-width: 500px;
+    border-radius: 5px;
+}
+
+.card-title {
+    font-size: 28px;
+    color: rgb(214, 227, 255);
+}
