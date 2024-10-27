@@ -3,6 +3,7 @@
     border-radius: 5px;
     padding: 10px;
     margin: 5px;
+    min-height: 80vh;
     grid-area: sidebar;
     background-color: rgb(247, 247, 247);
 }

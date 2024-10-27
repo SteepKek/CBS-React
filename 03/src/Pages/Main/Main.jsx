@@ -1,6 +1,6 @@
 import './Main.css';
 import data from '../../data/data.json';
-import Articles from '../../components/Articles';
+import Articles from '../../components/Articles/Articles';
 
 const Main = () => {
     return(
